@@ -1,0 +1,5 @@
+﻿cl : Command line warning D9002: ignoring unknown option '/std:c++latest'
+  SimulationParameters.cpp
+c:\users\user\documents\programming\protein\prosim\prosim\source\classical\simulationparameters.cpp(110): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Prosim.vcxproj -> C:\Users\User\Documents\Programming\Protein\Prosim\Binaries\x64\Debug\Prosim.exe
+  Prosim.vcxproj -> C:\Users\User\Documents\Programming\Protein\Prosim\Binaries\x64\Debug\Prosim.pdb (Partial PDB)
